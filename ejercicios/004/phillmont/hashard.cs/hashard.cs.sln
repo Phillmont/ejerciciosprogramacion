@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hashard.cs", "hashard.cs\hashard.cs.csproj", "{3A087E06-AB96-4C28-9E2C-059436A37D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A087E06-AB96-4C28-9E2C-059436A37D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A087E06-AB96-4C28-9E2C-059436A37D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A087E06-AB96-4C28-9E2C-059436A37D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A087E06-AB96-4C28-9E2C-059436A37D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9EDCAB3-788B-4D60-8376-FB91480F82C9}
+	EndGlobalSection
+EndGlobal
