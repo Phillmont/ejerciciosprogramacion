@@ -20,10 +20,7 @@ List<string> GenerarCadenasCombinadas (List<string> CadenasOriginales)
     {
         int longitudCadena = cadenaOriginal.Length;
         for (int i = 0; i < longitudCadena; i++)
-        {
             cadenasCombinadas.Add(cadenaOriginal.Substring(i, 1) + cadenaOriginal);
-        }
-
     }
     return cadenasCombinadas;
 }
